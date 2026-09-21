@@ -9,7 +9,7 @@
 
 The **Smart IoT Energy Monitoring and Electrical Safety System** is an ESP32-based educational hardware project for monitoring electrical parameters, displaying system status, and demonstrating IoT-based monitoring and warning functions.
 
-The project is being developed in stages. **Week 1** covers project planning and requirements analysis, while **Week 2** covers circuit design and simulation. Development and simulation use a safe isolated low-voltage model rather than direct mains experimentation.
+The project was developed through four documented virtual-internship stages: **Week 1** planning and requirements, **Week 2** circuit design and simulation, **Week 3** prototype assembly and hardware integration planning, and **Week 4** testing, evaluation, and final documentation. Development and evaluation use a safe isolated low-voltage model rather than direct mains experimentation.
 
 ## Project Objectives
 
@@ -133,18 +133,19 @@ Smart-IoT-Energy-Monitoring-System/
 
 ## Current Project Status
 
-**Completed documentation stages:**
-- ✅ Week 1 – Project Planning and Requirements Analysis
-- ✅ Week 2 – Circuit Design and Simulation
-
-**Completed documentation stages:**
+**Virtual internship documentation completed:**
 - ✅ Week 1 – Project Planning and Requirements Analysis
 - ✅ Week 2 – Circuit Design and Simulation
 - ✅ Week 3 – Prototype Assembly and Hardware Integration
+- ✅ Week 4 – Testing, Evaluation, and Final Documentation
 
-➡️ **[Open Week 3 Documentation](Week-3/README.md)**
+➡️ **[Open Week 1 Documentation](Week-1/README.md)**  
+➡️ **[Open Week 2 Documentation](Week-2/README.md)**  
+➡️ **[Open Week 2 Simulation Analysis](Week-2/Simulation-Analysis.md)**  
+➡️ **[Open Week 3 Documentation](Week-3/README.md)**  
+➡️ **[Open Week 4 Documentation](Week-4/README.md)**
 
-**Next stage:** Continue prototype testing, firmware refinement, calibration, and optimization according to the internship schedule.
+**Project stage:** Virtual internship documentation completed. Future work may include physical low-voltage prototype verification, calibration, PCB development, and extended reliability testing.
 
 ## Safety Scope
 
