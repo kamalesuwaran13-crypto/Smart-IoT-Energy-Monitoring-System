@@ -123,6 +123,8 @@ Smart-IoT-Energy-Monitoring-System/
 ├── Week-2/
 │   ├── README.md
 │   └── Simulation-Analysis.md
+├── Week-3/
+│   └── README.md
 ├── Hardware/          (planned)
 ├── Firmware/          (planned)
 ├── Documentation/     (planned)
@@ -135,7 +137,14 @@ Smart-IoT-Energy-Monitoring-System/
 - ✅ Week 1 – Project Planning and Requirements Analysis
 - ✅ Week 2 – Circuit Design and Simulation
 
-**Next stage:** Prototype/hardware development according to the internship schedule.
+**Completed documentation stages:**
+- ✅ Week 1 – Project Planning and Requirements Analysis
+- ✅ Week 2 – Circuit Design and Simulation
+- ✅ Week 3 – Prototype Assembly and Hardware Integration
+
+➡️ **[Open Week 3 Documentation](Week-3/README.md)**
+
+**Next stage:** Continue prototype testing, firmware refinement, calibration, and optimization according to the internship schedule.
 
 ## Safety Scope
 
